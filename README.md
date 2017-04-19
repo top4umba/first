@@ -1,3 +1,4 @@
+<pre>
 The following mapping from letters to digits is given:
 
 E | J N Q | R W X | D S Y | F T | A M | C I V | B K U | L O P | G H Z
@@ -123,3 +124,4 @@ Length of the individual words in the dictionary: 50 characters maximum.
 Number of words in the dictionary: 75000 maximum
 Length of the phone numbers: 50 characters maximum.
 Number of entries in the phone number file: unlimited.
+</pre>
